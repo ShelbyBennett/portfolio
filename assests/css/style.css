@@ -45,6 +45,7 @@ main{
     padding: 5px;
     margin-left:2vw;
     margin-right: 2vw;
+    
 }
 .title{
     position: absolute;
@@ -54,5 +55,10 @@ main{
 }
 
 #aboutme h2{
+    text-align:center;
+    
+}
+
+#work h2{
     text-align: center;
 }
