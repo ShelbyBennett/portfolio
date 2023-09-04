@@ -56,9 +56,12 @@ main{
 
 #aboutme h2{
     text-align:center;
-    
 }
-
+.about-content{
+    display: flex;
+    justify-content:center;
+    gap: 25px;
+}
 #work h2{
     text-align: center;
 }
