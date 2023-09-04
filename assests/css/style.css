@@ -61,7 +61,58 @@ main{
     display: flex;
     justify-content:center;
     gap: 25px;
+    
 }
 #work h2{
     text-align: center;
 }
+
+.work-content{
+    display: grid;
+    justify-content: center;
+    grid-gap: 5rem;
+    grid-template-columns: 200px 200px ;
+}
+#one {
+    border-style: solid;
+    border-width:5px;
+    border-color: rgb(0, 0, 0);
+    box-sizing: border-box;
+    width: 200px;
+    height: 130px;
+    margin:5px;
+    padding:5px;
+   }
+   
+   #two  {
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width:5px;
+    box-sizing: border-box;
+    width: 200px;
+    height: 130px;
+    margin:5px;
+    padding:5px;
+   }
+   
+   #three {
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width:5px;
+    box-sizing: border-box;
+    width: 200px;
+    height: 130px;
+    margin:5px;
+    padding:5px;
+   }
+   
+   #four {
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width:5px;
+    box-sizing: border-box;
+    width: 200px;
+    height: 130px;
+    margin:5px;
+    padding:5px;
+   }
