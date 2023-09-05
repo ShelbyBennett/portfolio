@@ -127,6 +127,18 @@ main{
    .resume-content{
     display: flex;
     justify-content: center;
+    margin-left: 405px;
     width: 600px;
     height: 400px;
+    padding-bottom: 5%;
+   }
+
+   .resume-link {
+    
+   }
+
+   #contactme h2{
+    text-align: left;
+    margin-left: 10px;
+
    }
